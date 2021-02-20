@@ -1,5 +1,7 @@
 # project1
+
 Objectives
+
 Students will be able to articulate the requirements for Project 1.
 Students will be able to draw and interpret diagrams of Git branching workflows.
 Students will be able to create new branches with Git.
