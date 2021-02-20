@@ -1,0 +1,21 @@
+CODIGO,Concepto
+11,"Agricultura, ganaderia y pesca"
+21,Mineria
+22,"Electricidad, Agua y Gas"
+23,Construccion
+31-33,Industrias Manufactureras
+43,Comercio al por mayor
+46,Comercio al por menor
+48-49,"Transportes, correos y almacenamiento"
+51,Medios Masivos
+52,Servicios Financieros/Seguros
+53,Servicios Inmobiliarios
+54,Servicios Profesionales
+55,Corporativos
+56,Manejo de Residuos
+61,Servicios Educativos
+62,Servicios de Salud
+71,Servicios Recreativos
+72,Alojamiento Temporal
+81,Otros servicios
+93,Servicios gubernamentales
